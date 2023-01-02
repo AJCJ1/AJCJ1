@@ -6,8 +6,14 @@
   I've completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> in a team of 4.
 
   You can reach me on the following:
-
+<ul>
+  <li>
   <a href="https://www.linkedin.com/in/arnoldcubicijones/">Linkedin </a>
+  </li>
+  <li>
   <a href="https://www.instagram.com/ajwebdesigns/">Instagram</a>
+  </li>
+  <li>
   <a href="https://twitter.com/ArnoldCJones">Twitter</a>
+  </li>
 </ReadMe>
