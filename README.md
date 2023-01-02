@@ -1,5 +1,5 @@
 <ReadMe>
- </> Hi There! My name is Arnold. 👋  </>
+  Hi There! My name is Arnold. 👋
 
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and for the past 6 months have dedicated my full attention to code.
 
