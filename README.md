@@ -7,7 +7,7 @@
 
   You can reach me on the following:
 
-  Linkedin - https://www.linkedin.com/in/arnoldcubicijones/
+  <a href="https://www.linkedin.com/in/arnoldcubicijones/"> Linkedin </a>
   Insta - https://www.instagram.com/ajwebdesigns/
   Twitter - https://twitter.com/ArnoldCJones
 </ReadMe>
