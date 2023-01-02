@@ -3,11 +3,11 @@
 
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and for the past 6 months have dedicated my full attention to code.
 
-  I've completed a coding bootcamp with Le Wagon https://www.lewagon.com/, during which time I created TripSelector in a team of 4. This is available here:   https://github.com/AJCJ1/tripselector
+  I've completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> in a team of 4.
 
   You can reach me on the following:
 
-  <a href="https://www.linkedin.com/in/arnoldcubicijones/"> Linkedin </a>
-  Insta - https://www.instagram.com/ajwebdesigns/
-  Twitter - https://twitter.com/ArnoldCJones
+  <a href="https://www.linkedin.com/in/arnoldcubicijones/">Linkedin </a>
+  <a href="https://www.instagram.com/ajwebdesigns/">Instagram</a>
+  <a href="https://twitter.com/ArnoldCJones">Twitter</a>
 </ReadMe>
