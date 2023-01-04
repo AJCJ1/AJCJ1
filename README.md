@@ -3,7 +3,7 @@
 
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and for the past 6 months have dedicated my full attention to code.
 
-  I've completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> and <a href="https://www.DriveMe.com/">DriveMe</a> in a team of 4.
+  I've completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> and <a href="https://driveme-ajcj1.herokuapp.com/">DriveMe</a> in a team of 4.
 
   You can reach me on the following:
 <ul>
