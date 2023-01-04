@@ -8,15 +8,15 @@
   You can reach me on the following:
 <ul>
   <li>
-  <a href="https://www.linkedin.com/in/arnoldcubicijones/">Linkedin </a>
+  <a href="https://www.linkedin.com/in/arnoldcubicijones/">Linkedin</a> 🧑‍💻
   </li>
   <li>
-  <a href="https://www.instagram.com/ajwebdesigns/">Instagram</a>
+  <a href="https://www.instagram.com/ajwebdesigns/">Instagram</a> 📸
   </li>
   <li>
-  <a href="https://twitter.com/ArnoldCJones">Twitter</a>
+  <a href="https://twitter.com/ArnoldCJones">Twitter</a> 🐥
   </li>
   <li>
-  <a href="https://www.arnoldcjones.co.uk">My Website</a>
+  <a href="https://www.arnoldcjones.co.uk">My Website</a> 💻
   </li>
 </ReadMe>
