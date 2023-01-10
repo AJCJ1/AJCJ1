@@ -9,18 +9,18 @@
   
   Back-end:
   
-  Ruby 3.1.2
-  Rails 7.0.4
-  Heroku server hosting
-  PostgreSQL Databases
-  Sprockets
-  Puma
-  Turbo-rails
-  JSON api builder - jbuilder
-  Redis
-  Geocoder for Mapbox integration
-  Devise
-  Yarn
+  - Ruby 3.1.2
+  - Rails 7.0.4
+  - Heroku server hosting
+  - PostgreSQL Databases
+  - Sprockets
+  - Puma
+  - Turbo-rails
+  - JSON api builder - jbuilder
+  - Redis
+  - Geocoder for Mapbox integration
+  - Devise
+  - Yarn
 
 Testing:
   
