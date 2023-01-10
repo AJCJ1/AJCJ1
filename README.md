@@ -1,4 +1,22 @@
 <ReadMe>
+  <ul>
+    <li>
+    <a href="https://www.linkedin.com/in/arnoldcubicijones/">Linkedin</a> 🧑‍💻
+    </li>
+    <li>
+    <a href="https://www.instagram.com/ajwebdesigns/">Instagram</a> 📸
+    </li>
+    <li>
+    <a href="https://twitter.com/ArnoldCJones">Twitter</a> 🐥
+    </li>
+    <li>
+    <a href="https://www.arnoldcjones.co.uk">My Website</a> 💻
+    </li>
+<!--     <li>
+    <a href="https://www.malt.uk/profile/arnoldcubicijones">Find me on Malt</a> 💻
+    </li> -->
+  </ul>
+  
   Hi There! My name is Arnold. 👋
 
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and for the past 6 months have dedicated my full attention to code.
@@ -40,25 +58,6 @@ Front-end:
   - SCSS
   - Babel
   - Webpack
-  
-  You can reach me on the following:
-  <ul>
-    <li>
-    <a href="https://www.linkedin.com/in/arnoldcubicijones/">Linkedin</a> 🧑‍💻
-    </li>
-    <li>
-    <a href="https://www.instagram.com/ajwebdesigns/">Instagram</a> 📸
-    </li>
-    <li>
-    <a href="https://twitter.com/ArnoldCJones">Twitter</a> 🐥
-    </li>
-    <li>
-    <a href="https://www.arnoldcjones.co.uk">My Website</a> 💻
-    </li>
-<!--     <li>
-    <a href="https://www.malt.uk/profile/arnoldcubicijones">Find me on Malt</a> 💻
-    </li> -->
-  </ul>
   
   Currently working on:
   
