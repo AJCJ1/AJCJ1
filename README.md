@@ -24,22 +24,22 @@
 
 Testing:
   
-  Prybye bug
-  ESlint
-  Rspec
-  Rubocop
-  Cloudinary for image hosting
+  - Prybye bug
+  - ESlint
+  - Rspec
+  - Rubocop
+  - Cloudinary for image hosting
 
 Front-end:
 
-  SASS for rails
-  Bootstrap
-  Slowly but surely adding ReactJS 
-  PopperJS
-  StimulusJS
-  SCSS
-  Babel
-  Webpack
+  - SASS for rails
+  - Bootstrap
+  - Slowly but surely adding ReactJS 
+  - PopperJS
+  - StimulusJS
+  - SCSS
+  - Babel
+  - Webpack
   
   You can reach me on the following:
   <ul>
