@@ -26,7 +26,7 @@
   
   Currently working on:
   
-  - Updating TripSelector
+  - Updating TripSelector (It needs help)
   - Creating an app for mental health with a colleague
   - Learning React.js.
  
