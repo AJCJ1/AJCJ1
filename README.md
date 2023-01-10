@@ -4,7 +4,43 @@
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and for the past 6 months have dedicated my full attention to code.
 
   I've completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> and <a href="https://driveme-ajcj1.herokuapp.com/">DriveMe</a> in a team of 4.
+  
+ My Full-Stack:
+  
+  Back-end:
+  
+  Ruby 3.1.2
+  Rails 7.0.4
+  Heroku server hosting
+  PostgreSQL Databases
+  Sprockets
+  Puma
+  Turbo-rails
+  JSON api builder - jbuilder
+  Redis
+  Geocoder for Mapbox integration
+  Devise
+  Yarn
 
+Testing:
+  
+  Prybye bug
+  ESlint
+  Rspec
+  Rubocop
+  Cloudinary for image hosting
+
+Front-end:
+
+  SASS for rails
+  Bootstrap
+  Slowly but surely adding ReactJS 
+  PopperJS
+  StimulusJS
+  SCSS
+  Babel
+  Webpack
+  
   You can reach me on the following:
   <ul>
     <li>
