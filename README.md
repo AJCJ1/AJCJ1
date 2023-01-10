@@ -19,9 +19,9 @@
     <li>
     <a href="https://www.arnoldcjones.co.uk">My Website</a> 💻
     </li>
-    <li>
+<!--     <li>
     <a href="https://www.malt.uk/profile/arnoldcubicijones">Find me on Malt</a> 💻
-    </li>
+    </li> -->
   </ul>
   
   Currently working on:
