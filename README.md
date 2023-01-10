@@ -23,4 +23,11 @@
     <a href="https://www.malt.uk/profile/arnoldcubicijones">Find me on Malt</a> 💻
     </li>
   </ul>
+  
+  Currently working on:
+  
+  - Updating TripSelector
+  - Creating an app for mental health with a colleague
+  - Learning React.js.
+ 
 </ReadMe>
