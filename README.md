@@ -62,8 +62,6 @@ Front-end:
   
   Currently working on:
   
-  - Updating TripSelector (It needs help)
   - Creating an app for mental health with a colleague
-  - Learning React.js
  
 </ReadMe>
