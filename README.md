@@ -20,7 +20,7 @@
   
   Hi There! My name is Arnold. 👋
 
-  I'm a Web-Developer working out of the UK. I used to be in law enforcement and for the past 6 months have dedicated my full attention to code.
+  I'm a Web-Developer working out of the UK. I used to be in law enforcement and for just under a year have dedicated my full attention to code.
 
   I recently completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> and <a href="https://driveme-ajcj1.herokuapp.com/">DriveMe</a> in a team of 4.
   
