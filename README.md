@@ -62,7 +62,7 @@ Front-end:
   
   Currently working on:
   
-  - Creating an app for mental health with a colleague
+  - Playing around with WebGL - Checkout https://ajcj1.github.io/vite-compiled-phantom-bookmarks/ for a spooky ghost bookmarking app... 
   - Creating a site for a physiotherapy company
  
 </ReadMe>
