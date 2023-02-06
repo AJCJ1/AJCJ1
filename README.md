@@ -24,6 +24,12 @@
 
   I recently completed a coding bootcamp with <a href="https://www.lewagon.com/">Le Wagon</a>, during which time I created <a href="https://www.trips-selector.com/">TripSelector</a> and <a href="https://driveme-ajcj1.herokuapp.com/">DriveMe</a> in a team of 4.
   
+   Currently working on:
+  
+  - Playing around with WebGL - Checkout https://ajcj1.github.io/vite-compiled-phantom-bookmarks/ for a spooky ghost bookmarking app... 
+  - Creating a site for a physiotherapy company
+  - Creating an electric vehicle statistics app.
+  
  My Full-Stack:
   
   Back-end:
@@ -60,9 +66,6 @@ Front-end:
   - Babel
   - Webpack
   
-  Currently working on:
-  
-  - Playing around with WebGL - Checkout https://ajcj1.github.io/vite-compiled-phantom-bookmarks/ for a spooky ghost bookmarking app... 
-  - Creating a site for a physiotherapy company
+ 
  
 </ReadMe>
