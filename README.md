@@ -58,12 +58,10 @@ Testing:
   - ESlint
   - Rspec
   - Rubocop
-  - Cloudinary for image hosting
 
 Front-end:
 
   - SASS/SCSS
-  - Bootstrap
   - ReactJS 
   - EmailJS
   - StimulusJS for Rails projects
