@@ -62,14 +62,12 @@ Testing:
 
 Front-end:
 
-  - SASS for rails
+  - SASS/SCSS
   - Bootstrap
-  - Slowly but surely adding ReactJS 
-  - PopperJS
-  - StimulusJS
-  - SCSS
-  - Babel
-  - Webpack
+  - ReactJS 
+  - EmailJS
+  - StimulusJS for Rails projects
+  - Babel + Webpack (But more so Vite nowadays, it's just faster..)
   
  
  
