@@ -19,6 +19,7 @@
   ---------------------------------------------------------------------------------------------------------------------------
   
   ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcj1&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcj1)](https://github.com/ajcj1/github-readme-stats&show_icons=true&theme=tokyonight)
   
   Hi There! My name is Arnold. 👋
 
