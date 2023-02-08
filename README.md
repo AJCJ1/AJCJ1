@@ -18,7 +18,7 @@
   </ul>
   ---------------------------------------------------------------------------------------------------------------------------
   
-  [![arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcj1)](https://github.com/ajcj1/github-readme-stats)
+  ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcj1&show_icons=true&theme=transparent)
   
   Hi There! My name is Arnold. 👋
 
