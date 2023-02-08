@@ -17,10 +17,10 @@
     </li> -->
   </ul>
   ---------------------------------------------------------------------------------------------------------------------------
-  
+  <div>
   ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcj1&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcj1)](https://github.com/ajcj1/github-readme-stats&show_icons=true)
-  
+  </div>
   Hi There! My name is Arnold. 👋
 
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and turned to web development.
