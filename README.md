@@ -17,7 +17,8 @@
     </li> -->
   </ul>
   ---------------------------------------------------------------------------------------------------------------------------
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
   ![Arnolds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajcj1&show_icons=true&theme=tokyonight)
 
   Hi There! My name is Arnold. 👋
