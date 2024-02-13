@@ -5,5 +5,7 @@
   Hi There! My name is Arnold. 👋
 
   I'm a Web-Developer working out of the UK. I used to be in law enforcement and turned to web development.
+
+  I currently work as a Full-Stack developer in the healthcare/tech-for-good sector. 🏥
 </ReadMe>
   
